@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tute 02</string>
+    <string name="temp">Enter Temperature</string>
+    <string name="rb_btn_C">Celciouse</string>
+    <string name="rb_btn_F">Fahrenhite</string>
+    <string name="btn_calculate">CALCULATE</string>
+</resources>
