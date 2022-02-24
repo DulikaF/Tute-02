@@ -64,6 +64,6 @@ public class MainActivity extends AppCompatActivity {
                      //display the text in the text view
                     tv_answer.setText(new Float(temp).toString());
             }
-        }
+        }//
 
     }
